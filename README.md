@@ -5,7 +5,8 @@
 - Support Browser:
   - Chrome : 87.0.4280.141 
   - Firefox : 84.0.2
-- Test time : 2021/01/18
+  - Safari : 14.0.3
+- Test time : 2021/03/21
 
 # Screenshot
 
@@ -51,6 +52,14 @@ or use
 3. Drag the file into the URL bar, click "add" when prompted
 
 4. Done!
+
+## For Safari
+
+Still in process of converting. Try clicking the **slader bypass.app**.
+
+Show Develop in menu bar < Advanced < Preferences < Safari.
+
+Click Develop in menu bar > Allow unsigned extensions
 
 # Warning
 
